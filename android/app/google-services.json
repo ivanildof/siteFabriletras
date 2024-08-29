@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "836897938254",
+    "firebase_url": "https://sitefabriletras-fcd26-default-rtdb.firebaseio.com",
+    "project_id": "sitefabriletras-fcd26",
+    "storage_bucket": "sitefabriletras-fcd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836897938254:android:87ffe98c06de141d991c1f",
+        "android_client_info": {
+          "package_name": "com.mycompany.fabriletras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAELY9NFHsXECo76b_RcLyMs1YYuTXUh90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
